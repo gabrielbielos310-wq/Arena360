@@ -1,10 +1,12 @@
-# Assets
+<!-- coderabbit-ai-generated:v1 -->
 
-Colocar aqui apenas assets originais ou licenciados para o projeto.
+# Arena 360
 
-- `characters/` — sprites, retratos e animações.
-- `arenas/` — fundos, plataformas e elementos de cenário.
-- `audio/` — música e efeitos sonoros.
-- `ui/` — ícones, fontes e elementos de interface.
+Base técnica de um jogo para Xbox 360, com multiplayer local para até quatro jogadores.
 
-Os diretórios de conteúdo serão adicionados quando os primeiros assets reais estiverem prontos.
+- `src/` — código-fonte; `src/game/` contém o estado da partida.
+- `assets/` — orientações para os recursos do jogo.
+- `docs/BUILD.md` — preparação, compilação e teste no console.
+- `docs/ROADMAP.md` — etapas e objetivos do projeto.
+
+O modo Boss está reservado para uma etapa posterior.
