@@ -58,4 +58,10 @@ O CI executa estes testes no Linux; ele não gera nem valida o XEX.
 4. Pressionar **Back** para encerrar.
 5. Verificar `arena360.log` na pasta do executável, caso seja gerado.
 
-**Importante:** este pacote ainda não foi compilado nem testado num Xbox 360. O resultado acima é o comportamento esperado após uma compilação bem-sucedida.
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:fdc6e56dd4999593f3175fa7b26dff88029e258cc07cf2d4b1b942c838a8e15b -->
+
+**Estado:** o projeto foi compilado com sucesso com o XSDK na revisão `5f6dc726f65f6d171493a3628c2415c03551f27b`. O executável ainda não foi testado num Xbox 360; o comportamento acima é esperado.
+
+<!-- /coderabbit-ai-generated:v1 -->
