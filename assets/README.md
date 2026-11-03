@@ -7,4 +7,12 @@ Colocar aqui apenas assets originais ou licenciados para o projeto.
 - `audio/` — música e efeitos sonoros.
 - `ui/` — ícones, fontes e elementos de interface.
 
-Os diretórios de conteúdo serão adicionados quando os primeiros assets reais estiverem prontos.
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:b217aac19b2a89df65f8036ea5ddf4c14ecf666125f6cc4f176ae6543989ce23 -->
+
+`characters/gabrathiel-concept.png` é a arte conceitual fornecida para Gabrathiel, O Arquiteto do Fim. É uma referência visual e ainda não está integrada à renderização do jogo.
+
+Os demais diretórios serão adicionados quando os respectivos assets estiverem prontos.
+
+<!-- /coderabbit-ai-generated:v1 -->
