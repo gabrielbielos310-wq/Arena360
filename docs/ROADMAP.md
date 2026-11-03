@@ -33,5 +33,17 @@
 - [ ] Ajustes de colisão, dano, knockback e balanceamento.
 - [ ] Testes de estabilidade e regressão.
 
-## Fora do escopo inicial
-O modo Boss/coop contra chefes fica reservado para uma expansão posterior, depois que o jogo principal estiver estável.
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:c53476e2784c3edf2f027561eaefd9a9c60bf265699ba1706ae75f550b1b5ec5 -->
+
+## Modo Boss — planejamento principal
+
+- [ ] Definir o catálogo dos três chefes, sua ordem, dificuldades e títulos.
+- [ ] Implementar e testar o desbloqueio sequencial.
+- [ ] Documentar habilidades e regras de balanceamento.
+- [ ] Desenvolver e testar as lutas contra chefes.
+
+O catálogo e as lutas ainda não estão implementados.
+
+<!-- /coderabbit-ai-generated:v1 -->
